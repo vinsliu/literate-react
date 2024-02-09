@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/literate-react/static/css/main.10600d18.css",
-    "main.js": "/literate-react/static/js/main.ad1cee7b.js",
+    "main.js": "/literate-react/static/js/main.235b2a33.js",
     "index.html": "/literate-react/index.html",
     "main.10600d18.css.map": "/literate-react/static/css/main.10600d18.css.map",
-    "main.ad1cee7b.js.map": "/literate-react/static/js/main.ad1cee7b.js.map"
+    "main.235b2a33.js.map": "/literate-react/static/js/main.235b2a33.js.map"
   },
   "entrypoints": [
     "static/css/main.10600d18.css",
-    "static/js/main.ad1cee7b.js"
+    "static/js/main.235b2a33.js"
   ]
 }
