@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/literate-react/static/css/main.6a446527.css",
+    "main.css": "/literate-react/static/css/main.5aee4744.css",
     "main.js": "/literate-react/static/js/main.3e713886.js",
     "static/media/PPNeueMontrealMono-SemiBold.woff2": "/literate-react/static/media/PPNeueMontrealMono-SemiBold.c85f8ef1e71aac30bf72.woff2",
     "static/media/PPNeueMontrealMono-Book.woff2": "/literate-react/static/media/PPNeueMontrealMono-Book.b29dae78389ed11916c9.woff2",
     "index.html": "/literate-react/index.html",
-    "main.6a446527.css.map": "/literate-react/static/css/main.6a446527.css.map",
+    "main.5aee4744.css.map": "/literate-react/static/css/main.5aee4744.css.map",
     "main.3e713886.js.map": "/literate-react/static/js/main.3e713886.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a446527.css",
+    "static/css/main.5aee4744.css",
     "static/js/main.3e713886.js"
   ]
 }
